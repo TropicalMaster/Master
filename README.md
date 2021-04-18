@@ -7,6 +7,7 @@ leading to two separate classes.
 
 Additionally, there are different TESTING files for each of the codes. The parameters can be changed to test each implementation.
 The parameters are described below:
+
 q: prime number of F_q
 m: extension degree of F_q^m
 n: length of output codewords
